@@ -34,3 +34,4 @@ for(let i = 0; i < 1000; i++) {
     arr1.push(Math.floor (Math.random () * (1000 - 1 + 1)) + 1)
 }
 twoSum(arr1, 10)
+console.log(5)
